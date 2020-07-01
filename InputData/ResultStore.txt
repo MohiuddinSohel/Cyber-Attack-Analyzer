@@ -1,0 +1,198 @@
+DataSet: 100Chain05Overlap
+Observed Techniques: [15001]
+Hypothesis: [75, 76, 77, 79]
+GF: 0.0
+EAF: 9.74730401479882E-4
+WAF: 0.118808789102947
+DataSet: 100Chain05Overlap
+Observed Techniques: [15001]
+Hypothesis: [74, 75, 76, 77, 79]
+GF: 0.0
+EAF: 0.0038989211507459353
+WAF: 0.11691636321181147
+DataSet: 100Chain05Overlap
+Observed Techniques: [15001]
+Hypothesis: [74, 75, 76, 77, 79, 81]
+GF: 0.0
+EAF: 0.015031734105919528
+WAF: 0.11472211352112711
+DataSet: 100Chain05Overlap
+Observed Techniques: [15001]
+Hypothesis: [74, 75, 76, 77, 79, 81, 80]
+GF: 0.0
+EAF: 0.05956363746303404
+WAF: 0.11345309024401214
+DataSet: 100Chain05Overlap
+Observed Techniques: [15001]
+Hypothesis: [74, 75, 76, 77, 79, 81, 80, 273]
+GF: 0.0
+EAF: 0.23825454985213615
+WAF: 0.11345309024401214
+DataSet: 100Chain05Overlap
+Observed Techniques: [15001]
+Hypothesis: [4, 74, 75, 76, 77, 79, 81, 80, 273]
+GF: 0.0
+EAF: 0.9530077456947124
+WAF: 0.1122671506599574
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [648, 354]
+GF: 0.0
+EAF: 0.003714053113514634
+WAF: 0.19711317187287308
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [648, 354, 89, 88]
+GF: 0.0
+EAF: 0.059424849815283565
+WAF: 0.1973168509673252
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [648, 354, 89, 88, 85, 84]
+GF: 0.0
+EAF: 0.06012693495309179
+WAF: 0.17239240684093401
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [648, 354, 89, 88, 85, 84, 82, 87]
+GF: 0.0
+EAF: 0.249413989812934
+WAF: 0.15134006055019342
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [648, 354, 89, 88, 85, 84, 82, 87, 8]
+GF: 0.0
+EAF: 0.9619140135921808
+WAF: 0.1280878807162639
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122, 126]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122, 126, 128]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122, 126, 128, 129]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122, 126, 128, 129, 123]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122, 126, 128, 129, 123, 124]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127]
+GF: 0.0
+EAF: 0.0037575878624284097
+WAF: 0.19245062150976547
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002, 15013, 15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127]
+GF: 0.0
+EAF: 0.06024162114310868
+WAF: 0.14631954792362578
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002, 15013, 15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127]
+GF: 0.0
+EAF: 0.06024162114310868
+WAF: 0.14631954792362578
+DataSet: 100Chain05Overlap
+Observed Techniques: [15002, 15013, 15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127, 128, 129]
+GF: 0.0
+EAF: 0.9508666211431086
+WAF: 0.11517241820931678
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [122, 123, 124, 125, 126, 127, 128, 129]
+GF: 0.25
+EAF: 0.2375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127, 128, 129]
+GF: 1.0
+EAF: 0.95
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127]
+GF: 0.0625
+EAF: 0.059375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127, 128]
+GF: 0.25
+EAF: 0.2375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125]
+GF: 0.00390625
+EAF: 0.0037109375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123]
+GF: 2.44140625E-4
+EAF: 2.3193359375E-4
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124]
+GF: 9.765625E-4
+EAF: 9.27734375E-4
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125]
+GF: 0.00390625
+EAF: 0.0037109375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125, 126]
+GF: 0.015625
+EAF: 0.01484375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127]
+GF: 0.0625
+EAF: 0.059375
+WAF: 0.1111111111111111
+DataSet: 100Chain05Overlap
+Observed Techniques: [15003]
+Hypothesis: [10, 122, 123, 124, 125, 126, 127, 128]
+GF: 0.25
+EAF: 0.2375
+WAF: 0.1111111111111111
