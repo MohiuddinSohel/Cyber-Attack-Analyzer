@@ -1,0 +1,9 @@
+,Attack,Index,Tactic,Technique,Technique Name
+6,DarkHotel,7,initial-access,T1091,Replication Through Removable Media
+3,DarkHotel,7,persistence,T1060,Registry Run Keys / Start Folder
+0,DarkHotel,7,defense-evasion,T1116,Code Signing
+2,DarkHotel,7,credential-access,T1056,Input Capture
+5,DarkHotel,7,credential-access,T1091,Replication Through Removable Media
+4,DarkHotel,7,lateral-movement,T1091,Replication Through Removable Media
+7,DarkHotel,7,lateral-movement,T1080,Taint Shared Content
+1,DarkHotel,7,collection,T1056,Input Capture

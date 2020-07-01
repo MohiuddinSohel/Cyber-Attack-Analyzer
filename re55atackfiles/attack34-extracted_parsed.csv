@@ -1,0 +1,28 @@
+,Attack,Index,Tactic,Technique,Technique Name
+23,34,26,initial-access,T1078,Valid Accounts
+26,34,26,execution,T1047,Windows Management Instrumentation
+1,34,26,execution,T1059,Command-Line Interface
+11,34,26,execution,T1086,PowerShell
+17,34,26,execution,T1064,Scripting
+24,34,26,persistence,T1100,Web Shell
+4,34,26,persistence,T1133,External Remote Services
+21,34,26,persistence,T1078,Valid Accounts
+22,34,26,privilege-escalation,T1078,Valid Accounts
+25,34,26,privilege-escalation,T1100,Web Shell
+3,34,26,defense-evasion,T1140,Deobfuscate/Decode Files or Information
+5,34,26,defense-evasion,T1107,File Deletion
+9,34,26,defense-evasion,T1027,Obfuscated Files or Information
+20,34,26,defense-evasion,T1078,Valid Accounts
+16,34,26,defense-evasion,T1064,Scripting
+0,34,26,credential-access,T1110,Brute Force
+7,34,26,credential-access,T1056,Input Capture
+2,34,26,credential-access,T1003,Credential Dumping
+10,34,26,discovery,T1201,Password Policy Discovery
+8,34,26,discovery,T1046,Network Service Scanning
+14,34,26,lateral-movement,T1105,Remote File Copy
+12,34,26,lateral-movement,T1076,Remote Desktop Protocol
+6,34,26,collection,T1056,Input Capture
+15,34,26,collection,T1113,Screen Capture
+18,34,26,command-and-control,T1071,Standard Application Layer Protocol
+19,34,26,command-and-control,T1032,Standard Cryptographic Protocol
+13,34,26,command-and-control,T1105,Remote File Copy

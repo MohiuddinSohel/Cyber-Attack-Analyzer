@@ -1,0 +1,25 @@
+,Attack,Index,Tactic,Technique,Technique Name
+21,Dragonfly,23,execution,T1064,Scripting
+12,Dragonfly,23,execution,T1086,PowerShell
+16,Dragonfly,23,execution,T1053,Scheduled Task
+2,Dragonfly,23,persistence,T1136,Create Account
+6,Dragonfly,23,persistence,T1133,External Remote Services
+17,Dragonfly,23,persistence,T1053,Scheduled Task
+22,Dragonfly,23,persistence,T1100,Web Shell
+23,Dragonfly,23,privilege-escalation,T1100,Web Shell
+18,Dragonfly,23,privilege-escalation,T1053,Scheduled Task
+20,Dragonfly,23,defense-evasion,T1064,Scripting
+4,Dragonfly,23,defense-evasion,T1089,Disabling Security Tools
+7,Dragonfly,23,defense-evasion,T1107,File Deletion
+9,Dragonfly,23,defense-evasion,T1070,Indicator Removal on Host
+10,Dragonfly,23,defense-evasion,T1036,Masquerading
+0,Dragonfly,23,credential-access,T1110,Brute Force
+8,Dragonfly,23,credential-access,T1187,Forced Authentication
+3,Dragonfly,23,credential-access,T1003,Credential Dumping
+11,Dragonfly,23,discovery,T1135,Network Share Discovery
+15,Dragonfly,23,lateral-movement,T1105,Remote File Copy
+13,Dragonfly,23,lateral-movement,T1076,Remote Desktop Protocol
+5,Dragonfly,23,collection,T1114,Email Collection
+19,Dragonfly,23,collection,T1113,Screen Capture
+1,Dragonfly,23,command-and-control,T1043,Commonly Used Port
+14,Dragonfly,23,command-and-control,T1105,Remote File Copy

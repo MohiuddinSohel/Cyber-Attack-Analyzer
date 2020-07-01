@@ -1,0 +1,14 @@
+,Attack,Index,Tactic,Technique,Technique Name
+12,MuddyWater,12,initial-access,T1193,Spearphishing Attachment
+1,MuddyWater,12,execution,T1191,CMSTP
+6,MuddyWater,12,execution,T1170,Mshta
+8,MuddyWater,12,execution,T1086,PowerShell
+11,MuddyWater,12,execution,T1064,Scripting
+9,MuddyWater,12,persistence,T1060,Registry Run Keys / Start Folder
+0,MuddyWater,12,defense-evasion,T1191,CMSTP
+3,MuddyWater,12,defense-evasion,T1140,Deobfuscate/Decode Files or Information
+4,MuddyWater,12,defense-evasion,T1036,Masquerading
+5,MuddyWater,12,defense-evasion,T1170,Mshta
+7,MuddyWater,12,defense-evasion,T1027,Obfuscated Files or Information
+10,MuddyWater,12,defense-evasion,T1064,Scripting
+2,MuddyWater,12,credential-access,T1003,Credential Dumping

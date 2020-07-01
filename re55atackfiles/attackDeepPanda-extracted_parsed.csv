@@ -1,0 +1,14 @@
+,Attack,Index,Tactic,Technique,Technique Name
+3,DeepPanda,12,execution,T1086,PowerShell
+6,DeepPanda,12,execution,T1117,Regsvr32
+8,DeepPanda,12,execution,T1064,Scripting
+12,DeepPanda,12,execution,T1047,Windows Management Instrumentation
+0,DeepPanda,12,persistence,T1015,Accessibility Features
+9,DeepPanda,12,persistence,T1100,Web Shell
+1,DeepPanda,12,privilege-escalation,T1015,Accessibility Features
+10,DeepPanda,12,privilege-escalation,T1100,Web Shell
+2,DeepPanda,12,defense-evasion,T1066,Indicator Removal from Tools
+5,DeepPanda,12,defense-evasion,T1117,Regsvr32
+7,DeepPanda,12,defense-evasion,T1064,Scripting
+4,DeepPanda,12,discovery,T1057,Process Discovery
+11,DeepPanda,12,lateral-movement,T1077,Windows Admin Shares

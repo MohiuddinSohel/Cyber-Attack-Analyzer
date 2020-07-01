@@ -1,0 +1,5 @@
+,Attack,Index,Tactic,Technique,Technique Name
+1,17,3,target-selection,PRE-T1018,Determine strategic target
+3,17,3,establish-&-maintain-infrastructure,PRE-T1108,Obfuscate infrastructure
+0,17,3,persona-development,PRE-T1118,Build social network persona
+2,17,3,persona-development,PRE-T1119,Develop social network persona digital footprint

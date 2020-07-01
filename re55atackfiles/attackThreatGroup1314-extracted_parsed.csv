@@ -1,0 +1,9 @@
+,Attack,Index,Tactic,Technique,Technique Name
+6,ThreatGroup1314,7,initial-access,T1078,Valid Accounts
+0,ThreatGroup1314,7,execution,T1059,Command-Line Interface
+1,ThreatGroup1314,7,execution,T1072,Third-party Software
+4,ThreatGroup1314,7,persistence,T1078,Valid Accounts
+5,ThreatGroup1314,7,privilege-escalation,T1078,Valid Accounts
+3,ThreatGroup1314,7,defense-evasion,T1078,Valid Accounts
+2,ThreatGroup1314,7,lateral-movement,T1072,Third-party Software
+7,ThreatGroup1314,7,lateral-movement,T1077,Windows Admin Shares

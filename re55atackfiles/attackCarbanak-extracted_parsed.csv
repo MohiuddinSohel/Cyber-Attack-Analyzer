@@ -1,0 +1,14 @@
+,Attack,Index,Tactic,Technique,Technique Name
+10,Carbanak,12,initial-access,T1078,Valid Accounts
+6,Carbanak,12,execution,T1085,Rundll32
+2,Carbanak,12,persistence,T1050,New Service
+8,Carbanak,12,persistence,T1078,Valid Accounts
+3,Carbanak,12,privilege-escalation,T1050,New Service
+9,Carbanak,12,privilege-escalation,T1078,Valid Accounts
+0,Carbanak,12,defense-evasion,T1089,Disabling Security Tools
+1,Carbanak,12,defense-evasion,T1036,Masquerading
+5,Carbanak,12,defense-evasion,T1085,Rundll32
+7,Carbanak,12,defense-evasion,T1078,Valid Accounts
+12,Carbanak,12,defense-evasion,T1102,Web Service
+4,Carbanak,12,command-and-control,T1219,Remote Access Tools
+11,Carbanak,12,command-and-control,T1102,Web Service

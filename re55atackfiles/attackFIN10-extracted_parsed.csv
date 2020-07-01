@@ -1,0 +1,17 @@
+,Attack,Index,Tactic,Technique,Technique Name
+15,FIN10,15,initial-access,T1078,Valid Accounts
+1,FIN10,15,execution,T1086,PowerShell
+6,FIN10,15,execution,T1053,Scheduled Task
+10,FIN10,15,execution,T1064,Scripting
+2,FIN10,15,persistence,T1060,Registry Run Keys / Start Folder
+7,FIN10,15,persistence,T1053,Scheduled Task
+13,FIN10,15,persistence,T1078,Valid Accounts
+8,FIN10,15,privilege-escalation,T1053,Scheduled Task
+14,FIN10,15,privilege-escalation,T1078,Valid Accounts
+0,FIN10,15,defense-evasion,T1107,File Deletion
+9,FIN10,15,defense-evasion,T1064,Scripting
+12,FIN10,15,defense-evasion,T1078,Valid Accounts
+11,FIN10,15,discovery,T1033,System Owner/User Discovery
+3,FIN10,15,lateral-movement,T1076,Remote Desktop Protocol
+5,FIN10,15,lateral-movement,T1105,Remote File Copy
+4,FIN10,15,command-and-control,T1105,Remote File Copy

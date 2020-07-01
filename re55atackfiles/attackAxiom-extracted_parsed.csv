@@ -1,0 +1,7 @@
+,Attack,Index,Tactic,Technique,Technique Name
+4,Axiom,5,initial-access,T1190,Exploit Public-Facing Application
+0,Axiom,5,persistence,T1015,Accessibility Features
+1,Axiom,5,privilege-escalation,T1015,Accessibility Features
+2,Axiom,5,credential-access,T1003,Credential Dumping
+5,Axiom,5,lateral-movement,T1076,Remote Desktop Protocol
+3,Axiom,5,command-and-control,T1001,Data Obfuscation

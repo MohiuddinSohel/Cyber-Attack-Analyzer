@@ -1,0 +1,7 @@
+,Attack,Index,Tactic,Technique,Technique Name
+4,TA459,5,initial-access,T1193,Spearphishing Attachment
+0,TA459,5,execution,T1203,Exploitation for Client Execution
+1,TA459,5,execution,T1086,PowerShell
+3,TA459,5,execution,T1064,Scripting
+5,TA459,5,execution,T1204,User Execution
+2,TA459,5,defense-evasion,T1064,Scripting

@@ -1,0 +1,3 @@
+,Attack,Index,Tactic,Technique,Technique Name
+0,Naikon,1,discovery,T1063,Security Software Discovery
+1,Naikon,1,discovery,T1016,System Network Configuration Discovery

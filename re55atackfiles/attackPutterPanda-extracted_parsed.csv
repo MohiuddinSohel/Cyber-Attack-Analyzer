@@ -1,0 +1,6 @@
+,Attack,Index,Tactic,Technique,Technique Name
+4,PutterPanda,4,persistence,T1060,Registry Run Keys / Start Folder
+3,PutterPanda,4,privilege-escalation,T1055,Process Injection
+0,PutterPanda,4,defense-evasion,T1089,Disabling Security Tools
+1,PutterPanda,4,defense-evasion,T1027,Obfuscated Files or Information
+2,PutterPanda,4,defense-evasion,T1055,Process Injection

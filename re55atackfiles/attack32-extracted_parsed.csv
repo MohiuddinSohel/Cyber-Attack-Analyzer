@@ -1,0 +1,25 @@
+,Attack,Index,Tactic,Technique,Technique Name
+21,32,23,initial-access,T1078,Valid Accounts
+11,32,23,execution,T1053,Scheduled Task
+15,32,23,execution,T1216,Signed Script Proxy Execution
+6,32,23,execution,T1086,PowerShell
+8,32,23,execution,T1117,Regsvr32
+19,32,23,persistence,T1078,Valid Accounts
+12,32,23,persistence,T1053,Scheduled Task
+22,32,23,persistence,T1100,Web Shell
+20,32,23,privilege-escalation,T1078,Valid Accounts
+13,32,23,privilege-escalation,T1053,Scheduled Task
+23,32,23,privilege-escalation,T1100,Web Shell
+2,32,23,privilege-escalation,T1068,Exploitation for Privilege Escalation
+7,32,23,defense-evasion,T1117,Regsvr32
+5,32,23,defense-evasion,T1027,Obfuscated Files or Information
+14,32,23,defense-evasion,T1216,Signed Script Proxy Execution
+4,32,23,defense-evasion,T1036,Masquerading
+17,32,23,defense-evasion,T1099,Timestomp
+18,32,23,defense-evasion,T1078,Valid Accounts
+3,32,23,defense-evasion,T1107,File Deletion
+10,32,23,lateral-movement,T1105,Remote File Copy
+0,32,23,lateral-movement,T1017,Application Deployment Software
+9,32,23,command-and-control,T1105,Remote File Copy
+16,32,23,command-and-control,T1071,Standard Application Layer Protocol
+1,32,23,command-and-control,T1094,Custom Command and Control Protocol

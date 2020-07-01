@@ -1,0 +1,4 @@
+,Attack,Index,Tactic,Technique,Technique Name
+0,WinntiGroup,2,defense-evasion,T1116,Code Signing
+2,WinntiGroup,2,defense-evasion,T1014,Rootkit
+1,WinntiGroup,2,discovery,T1057,Process Discovery

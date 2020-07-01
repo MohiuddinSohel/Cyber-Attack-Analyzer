@@ -1,0 +1,27 @@
+,Attack,Index,Tactic,Technique,Technique Name
+17,MagicHound,25,initial-access,T1194,Spearphishing via Service
+16,MagicHound,25,initial-access,T1192,Spearphishing Link
+15,MagicHound,25,initial-access,T1193,Spearphishing Attachment
+0,MagicHound,25,execution,T1059,Command-Line Interface
+23,MagicHound,25,execution,T1204,User Execution
+14,MagicHound,25,execution,T1064,Scripting
+7,MagicHound,25,execution,T1086,PowerShell
+9,MagicHound,25,persistence,T1060,Registry Run Keys / Start Folder
+13,MagicHound,25,defense-evasion,T1064,Scripting
+25,MagicHound,25,defense-evasion,T1102,Web Service
+6,MagicHound,25,defense-evasion,T1027,Obfuscated Files or Information
+2,MagicHound,25,defense-evasion,T1107,File Deletion
+5,MagicHound,25,credential-access,T1056,Input Capture
+3,MagicHound,25,discovery,T1083,File and Directory Discovery
+19,MagicHound,25,discovery,T1082,System Information Discovery
+20,MagicHound,25,discovery,T1016,System Network Configuration Discovery
+21,MagicHound,25,discovery,T1033,System Owner/User Discovery
+8,MagicHound,25,discovery,T1057,Process Discovery
+11,MagicHound,25,lateral-movement,T1105,Remote File Copy
+4,MagicHound,25,collection,T1056,Input Capture
+12,MagicHound,25,collection,T1113,Screen Capture
+10,MagicHound,25,command-and-control,T1105,Remote File Copy
+24,MagicHound,25,command-and-control,T1102,Web Service
+18,MagicHound,25,command-and-control,T1071,Standard Application Layer Protocol
+22,MagicHound,25,command-and-control,T1065,Uncommonly Used Port
+1,MagicHound,25,command-and-control,T1043,Commonly Used Port

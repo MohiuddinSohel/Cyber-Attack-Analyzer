@@ -1,0 +1,18 @@
+,Attack,Index,Tactic,Technique,Technique Name
+16,StealthFalcon,16,execution,T1047,Windows Management Instrumentation
+10,StealthFalcon,16,execution,T1064,Scripting
+3,StealthFalcon,16,execution,T1086,PowerShell
+6,StealthFalcon,16,execution,T1053,Scheduled Task
+7,StealthFalcon,16,persistence,T1053,Scheduled Task
+8,StealthFalcon,16,privilege-escalation,T1053,Scheduled Task
+9,StealthFalcon,16,defense-evasion,T1064,Scripting
+0,StealthFalcon,16,credential-access,T1003,Credential Dumping
+4,StealthFalcon,16,discovery,T1057,Process Discovery
+15,StealthFalcon,16,discovery,T1033,System Owner/User Discovery
+13,StealthFalcon,16,discovery,T1082,System Information Discovery
+14,StealthFalcon,16,discovery,T1016,System Network Configuration Discovery
+5,StealthFalcon,16,discovery,T1012,Query Registry
+1,StealthFalcon,16,collection,T1005,Data from Local System
+2,StealthFalcon,16,exfiltration,T1041,Exfiltration Over Command and Control Channel
+11,StealthFalcon,16,command-and-control,T1071,Standard Application Layer Protocol
+12,StealthFalcon,16,command-and-control,T1032,Standard Cryptographic Protocol

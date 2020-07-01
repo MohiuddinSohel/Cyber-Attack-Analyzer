@@ -1,0 +1,24 @@
+,Attack,Index,Tactic,Technique,Technique Name
+22,FIN6,22,initial-access,T1078,Valid Accounts
+16,FIN6,22,execution,T1064,Scripting
+8,FIN6,22,execution,T1086,PowerShell
+12,FIN6,22,execution,T1053,Scheduled Task
+20,FIN6,22,persistence,T1078,Valid Accounts
+9,FIN6,22,persistence,T1060,Registry Run Keys / Start Folder
+13,FIN6,22,persistence,T1053,Scheduled Task
+6,FIN6,22,privilege-escalation,T1068,Exploitation for Privilege Escalation
+14,FIN6,22,privilege-escalation,T1053,Scheduled Task
+21,FIN6,22,privilege-escalation,T1078,Valid Accounts
+19,FIN6,22,defense-evasion,T1078,Valid Accounts
+15,FIN6,22,defense-evasion,T1064,Scripting
+2,FIN6,22,credential-access,T1003,Credential Dumping
+0,FIN6,22,discovery,T1087,Account Discovery
+7,FIN6,22,discovery,T1046,Network Service Scanning
+11,FIN6,22,discovery,T1018,Remote System Discovery
+10,FIN6,22,lateral-movement,T1076,Remote Desktop Protocol
+5,FIN6,22,collection,T1074,Data Staged
+1,FIN6,22,collection,T1119,Automated Collection
+4,FIN6,22,exfiltration,T1022,Data Encrypted
+3,FIN6,22,exfiltration,T1002,Data Compressed
+17,FIN6,22,command-and-control,T1071,Standard Application Layer Protocol
+18,FIN6,22,command-and-control,T1032,Standard Cryptographic Protocol

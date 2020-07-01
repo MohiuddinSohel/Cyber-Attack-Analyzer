@@ -1,0 +1,13 @@
+,Attack,Index,Tactic,Technique,Technique Name
+2,Turla,11,defense-evasion,T1066,Indicator Removal from Tools
+0,Turla,11,credential-access,T1110,Brute Force
+1,Turla,11,discovery,T1083,File and Directory Discovery
+3,Turla,11,discovery,T1057,Process Discovery
+4,Turla,11,discovery,T1012,Query Registry
+5,Turla,11,discovery,T1018,Remote System Discovery
+6,Turla,11,discovery,T1082,System Information Discovery
+7,Turla,11,discovery,T1016,System Network Configuration Discovery
+8,Turla,11,discovery,T1049,System Network Connections Discovery
+9,Turla,11,discovery,T1007,System Service Discovery
+10,Turla,11,discovery,T1124,System Time Discovery
+11,Turla,11,lateral-movement,T1077,Windows Admin Shares

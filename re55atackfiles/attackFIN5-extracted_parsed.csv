@@ -1,0 +1,16 @@
+,Attack,Index,Tactic,Technique,Technique Name
+14,FIN5,14,initial-access,T1078,Valid Accounts
+10,FIN5,14,execution,T1064,Scripting
+3,FIN5,14,persistence,T1133,External Remote Services
+7,FIN5,14,persistence,T1108,Redundant Access
+12,FIN5,14,persistence,T1078,Valid Accounts
+13,FIN5,14,privilege-escalation,T1078,Valid Accounts
+4,FIN5,14,defense-evasion,T1107,File Deletion
+5,FIN5,14,defense-evasion,T1070,Indicator Removal on Host
+6,FIN5,14,defense-evasion,T1108,Redundant Access
+9,FIN5,14,defense-evasion,T1064,Scripting
+11,FIN5,14,defense-evasion,T1078,Valid Accounts
+1,FIN5,14,credential-access,T1003,Credential Dumping
+8,FIN5,14,discovery,T1018,Remote System Discovery
+0,FIN5,14,collection,T1119,Automated Collection
+2,FIN5,14,collection,T1074,Data Staged

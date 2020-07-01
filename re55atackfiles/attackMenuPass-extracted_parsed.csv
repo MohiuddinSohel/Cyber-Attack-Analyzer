@@ -1,0 +1,32 @@
+,Attack,Index,Tactic,Technique,Technique Name
+21,MenuPass,30,initial-access,T1193,Spearphishing Attachment
+29,MenuPass,30,initial-access,T1078,Valid Accounts
+24,MenuPass,30,initial-access,T1199,Trusted Relationship
+30,MenuPass,30,execution,T1047,Windows Management Instrumentation
+1,MenuPass,30,execution,T1059,Command-Line Interface
+12,MenuPass,30,execution,T1086,PowerShell
+25,MenuPass,30,execution,T1204,User Execution
+18,MenuPass,30,execution,T1053,Scheduled Task
+19,MenuPass,30,persistence,T1053,Scheduled Task
+5,MenuPass,30,persistence,T1038,DLL Search Order Hijacking
+27,MenuPass,30,persistence,T1078,Valid Accounts
+6,MenuPass,30,privilege-escalation,T1038,DLL Search Order Hijacking
+28,MenuPass,30,privilege-escalation,T1078,Valid Accounts
+20,MenuPass,30,privilege-escalation,T1053,Scheduled Task
+7,MenuPass,30,defense-evasion,T1073,DLL Side-Loading
+4,MenuPass,30,defense-evasion,T1038,DLL Search Order Hijacking
+26,MenuPass,30,defense-evasion,T1078,Valid Accounts
+3,MenuPass,30,credential-access,T1003,Credential Dumping
+23,MenuPass,30,discovery,T1049,System Network Connections Discovery
+22,MenuPass,30,discovery,T1016,System Network Configuration Discovery
+0,MenuPass,30,discovery,T1087,Account Discovery
+11,MenuPass,30,discovery,T1046,Network Service Scanning
+17,MenuPass,30,discovery,T1018,Remote System Discovery
+16,MenuPass,30,lateral-movement,T1021,Remote Services
+13,MenuPass,30,lateral-movement,T1076,Remote Desktop Protocol
+15,MenuPass,30,lateral-movement,T1105,Remote File Copy
+10,MenuPass,30,collection,T1039,Data from Network Shared Drive
+9,MenuPass,30,collection,T1074,Data Staged
+8,MenuPass,30,exfiltration,T1002,Data Compressed
+14,MenuPass,30,command-and-control,T1105,Remote File Copy
+2,MenuPass,30,command-and-control,T1090,Connection Proxy

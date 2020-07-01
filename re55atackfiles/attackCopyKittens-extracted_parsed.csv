@@ -1,0 +1,7 @@
+,Attack,Index,Tactic,Technique,Technique Name
+3,CopyKittens,5,execution,T1086,PowerShell
+5,CopyKittens,5,execution,T1085,Rundll32
+0,CopyKittens,5,defense-evasion,T1116,Code Signing
+4,CopyKittens,5,defense-evasion,T1085,Rundll32
+1,CopyKittens,5,exfiltration,T1002,Data Compressed
+2,CopyKittens,5,exfiltration,T1022,Data Encrypted

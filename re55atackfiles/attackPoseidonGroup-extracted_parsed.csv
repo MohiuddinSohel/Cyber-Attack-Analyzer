@@ -1,0 +1,8 @@
+,Attack,Index,Tactic,Technique,Technique Name
+3,PoseidonGroup,6,execution,T1086,PowerShell
+2,PoseidonGroup,6,defense-evasion,T1036,Masquerading
+1,PoseidonGroup,6,credential-access,T1003,Credential Dumping
+0,PoseidonGroup,6,discovery,T1087,Account Discovery
+4,PoseidonGroup,6,discovery,T1057,Process Discovery
+5,PoseidonGroup,6,discovery,T1049,System Network Connections Discovery
+6,PoseidonGroup,6,discovery,T1007,System Service Discovery

@@ -1,0 +1,8 @@
+,Attack,Index,Tactic,Technique,Technique Name
+0,Group5,6,defense-evasion,T1107,File Deletion
+3,Group5,6,defense-evasion,T1027,Obfuscated Files or Information
+5,Group5,6,defense-evasion,T1045,Software Packing
+2,Group5,6,credential-access,T1056,Input Capture
+1,Group5,6,collection,T1056,Input Capture
+4,Group5,6,collection,T1113,Screen Capture
+6,Group5,6,command-and-control,T1065,Uncommonly Used Port

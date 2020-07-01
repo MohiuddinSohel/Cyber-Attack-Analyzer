@@ -1,0 +1,10 @@
+,Attack,Index,Tactic,Technique,Technique Name
+1,Admin338,8,execution,T1059,Command-Line Interface
+3,Admin338,8,defense-evasion,T1036,Masquerading
+0,Admin338,8,discovery,T1087,Account Discovery
+2,Admin338,8,discovery,T1083,File and Directory Discovery
+4,Admin338,8,discovery,T1069,Permission Groups Discovery
+5,Admin338,8,discovery,T1082,System Information Discovery
+6,Admin338,8,discovery,T1016,System Network Configuration Discovery
+7,Admin338,8,discovery,T1049,System Network Connections Discovery
+8,Admin338,8,discovery,T1007,System Service Discovery

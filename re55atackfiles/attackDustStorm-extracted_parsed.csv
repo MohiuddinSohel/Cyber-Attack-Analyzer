@@ -1,0 +1,4 @@
+,Attack,Index,Tactic,Technique,Technique Name
+2,DustStorm,2,defense-evasion,T1027,Obfuscated Files or Information
+1,DustStorm,2,discovery,T1083,File and Directory Discovery
+0,DustStorm,2,collection,T1005,Data from Local System

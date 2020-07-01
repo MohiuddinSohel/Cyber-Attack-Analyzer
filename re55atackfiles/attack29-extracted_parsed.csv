@@ -1,0 +1,23 @@
+,Attack,Index,Tactic,Technique,Technique Name
+18,29,21,initial-access,T1192,Spearphishing Link
+17,29,21,initial-access,T1193,Spearphishing Attachment
+19,29,21,execution,T1204,User Execution
+15,29,21,execution,T1064,Scripting
+5,29,21,execution,T1203,Exploitation for Client Execution
+11,29,21,execution,T1053,Scheduled Task
+20,29,21,execution,T1047,Windows Management Instrumentation
+9,29,21,execution,T1086,PowerShell
+0,29,21,persistence,T1015,Accessibility Features
+12,29,21,persistence,T1053,Scheduled Task
+10,29,21,persistence,T1060,Registry Run Keys / Start Folder
+21,29,21,persistence,T1084,Windows Management Instrumentation Event Subscription
+13,29,21,privilege-escalation,T1053,Scheduled Task
+3,29,21,privilege-escalation,T1088,Bypass User Account Control
+1,29,21,privilege-escalation,T1015,Accessibility Features
+6,29,21,defense-evasion,T1070,Indicator Removal on Host
+14,29,21,defense-evasion,T1064,Scripting
+16,29,21,defense-evasion,T1045,Software Packing
+2,29,21,defense-evasion,T1088,Bypass User Account Control
+8,29,21,lateral-movement,T1075,Pass the Hash
+7,29,21,command-and-control,T1188,Multi-hop Proxy
+4,29,21,command-and-control,T1172,Domain Fronting

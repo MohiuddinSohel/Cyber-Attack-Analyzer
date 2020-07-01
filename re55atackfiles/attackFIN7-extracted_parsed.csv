@@ -1,0 +1,15 @@
+,Attack,Index,Tactic,Technique,Technique Name
+2,FIN7,13,execution,T1173,Dynamic Data Exchange
+5,FIN7,13,execution,T1170,Mshta
+7,FIN7,13,execution,T1086,PowerShell
+11,FIN7,13,execution,T1053,Scheduled Task
+0,FIN7,13,persistence,T1138,Application Shimming
+8,FIN7,13,persistence,T1060,Registry Run Keys / Start Folder
+12,FIN7,13,persistence,T1053,Scheduled Task
+1,FIN7,13,privilege-escalation,T1138,Application Shimming
+13,FIN7,13,privilege-escalation,T1053,Scheduled Task
+3,FIN7,13,defense-evasion,T1036,Masquerading
+4,FIN7,13,defense-evasion,T1170,Mshta
+6,FIN7,13,defense-evasion,T1027,Obfuscated Files or Information
+10,FIN7,13,lateral-movement,T1105,Remote File Copy
+9,FIN7,13,command-and-control,T1105,Remote File Copy

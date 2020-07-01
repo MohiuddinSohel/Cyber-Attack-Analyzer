@@ -1,0 +1,36 @@
+,Attack,Index,Tactic,Technique,Technique Name
+32,ThreatGroup3390,34,initial-access,T1078,Valid Accounts
+24,ThreatGroup3390,34,execution,T1053,Scheduled Task
+2,ThreatGroup3390,34,execution,T1059,Command-Line Interface
+19,ThreatGroup3390,34,execution,T1086,PowerShell
+33,ThreatGroup3390,34,execution,T1028,Windows Remote Management
+30,ThreatGroup3390,34,persistence,T1078,Valid Accounts
+25,ThreatGroup3390,34,persistence,T1053,Scheduled Task
+21,ThreatGroup3390,34,persistence,T1108,Redundant Access
+13,ThreatGroup3390,34,persistence,T1133,External Remote Services
+31,ThreatGroup3390,34,privilege-escalation,T1078,Valid Accounts
+26,ThreatGroup3390,34,privilege-escalation,T1053,Scheduled Task
+12,ThreatGroup3390,34,privilege-escalation,T1068,Exploitation for Privilege Escalation
+20,ThreatGroup3390,34,defense-evasion,T1108,Redundant Access
+18,ThreatGroup3390,34,defense-evasion,T1126,Network Share Connection Removal
+11,ThreatGroup3390,34,defense-evasion,T1089,Disabling Security Tools
+29,ThreatGroup3390,34,defense-evasion,T1078,Valid Accounts
+5,ThreatGroup3390,34,defense-evasion,T1073,DLL Side-Loading
+14,ThreatGroup3390,34,defense-evasion,T1107,File Deletion
+16,ThreatGroup3390,34,credential-access,T1056,Input Capture
+4,ThreatGroup3390,34,credential-access,T1003,Credential Dumping
+27,ThreatGroup3390,34,discovery,T1016,System Network Configuration Discovery
+28,ThreatGroup3390,34,discovery,T1049,System Network Connections Discovery
+0,ThreatGroup3390,34,discovery,T1087,Account Discovery
+17,ThreatGroup3390,34,discovery,T1046,Network Service Scanning
+23,ThreatGroup3390,34,lateral-movement,T1105,Remote File Copy
+34,ThreatGroup3390,34,lateral-movement,T1028,Windows Remote Management
+15,ThreatGroup3390,34,collection,T1056,Input Capture
+10,ThreatGroup3390,34,collection,T1005,Data from Local System
+8,ThreatGroup3390,34,collection,T1074,Data Staged
+1,ThreatGroup3390,34,collection,T1119,Automated Collection
+9,ThreatGroup3390,34,exfiltration,T1030,Data Transfer Size Limits
+7,ThreatGroup3390,34,exfiltration,T1022,Data Encrypted
+6,ThreatGroup3390,34,exfiltration,T1002,Data Compressed
+22,ThreatGroup3390,34,command-and-control,T1105,Remote File Copy
+3,ThreatGroup3390,34,command-and-control,T1043,Commonly Used Port

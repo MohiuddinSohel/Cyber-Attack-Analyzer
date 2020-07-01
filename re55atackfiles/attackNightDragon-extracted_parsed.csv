@@ -1,0 +1,10 @@
+,Attack,Index,Tactic,Technique,Technique Name
+5,NightDragon,8,priority-definition-planning,PRE-T1002,Identify gap areas
+4,NightDragon,8,target-selection,PRE-T1018,Determine strategic target
+6,NightDragon,8,people-information-gathering,PRE-T1047,Identify groups/roles
+1,NightDragon,8,adversary-opsec,PRE-T1084,Acquire and/or use 3rd party infrastructure services
+2,NightDragon,8,adversary-opsec,PRE-T1085,Acquire and/or use 3rd party software services
+7,NightDragon,8,build-capabilities,PRE-T1128,Remote access tool development
+8,NightDragon,8,launch,PRE-T1144,Spear phishing messages with malicious attachments
+3,NightDragon,8,compromise,PRE-T1165,Compromise of externally facing system
+0,NightDragon,8,defense-evasion,T1045,Software Packing

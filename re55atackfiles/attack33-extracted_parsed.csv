@@ -1,0 +1,6 @@
+,Attack,Index,Tactic,Technique,Technique Name
+0,33,4,initial-access,T1192,Spearphishing Link
+4,33,4,initial-access,T1078,Valid Accounts
+2,33,4,persistence,T1078,Valid Accounts
+3,33,4,privilege-escalation,T1078,Valid Accounts
+1,33,4,defense-evasion,T1078,Valid Accounts

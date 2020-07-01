@@ -1,0 +1,53 @@
+,Attack,Index,Tactic,Technique,Technique Name
+50,03,51,initial-access,T1078,Valid Accounts
+39,03,51,execution,T1064,Scripting
+34,03,51,execution,T1085,Rundll32
+24,03,51,execution,T1086,PowerShell
+35,03,51,execution,T1053,Scheduled Task
+4,03,51,execution,T1059,Command-Line Interface
+27,03,51,persistence,T1108,Redundant Access
+20,03,51,persistence,T1050,New Service
+0,03,51,persistence,T1015,Accessibility Features
+36,03,51,persistence,T1053,Scheduled Task
+6,03,51,persistence,T1136,Create Account
+48,03,51,persistence,T1078,Valid Accounts
+28,03,51,persistence,T1060,Registry Run Keys / Start Folder
+49,03,51,privilege-escalation,T1078,Valid Accounts
+1,03,51,privilege-escalation,T1015,Accessibility Features
+21,03,51,privilege-escalation,T1050,New Service
+37,03,51,privilege-escalation,T1053,Scheduled Task
+26,03,51,defense-evasion,T1108,Redundant Access
+38,03,51,defense-evasion,T1064,Scripting
+22,03,51,defense-evasion,T1027,Obfuscated Files or Information
+16,03,51,defense-evasion,T1066,Indicator Removal from Tools
+40,03,51,defense-evasion,T1045,Software Packing
+14,03,51,defense-evasion,T1107,File Deletion
+47,03,51,defense-evasion,T1078,Valid Accounts
+9,03,51,defense-evasion,T1073,DLL Side-Loading
+33,03,51,defense-evasion,T1085,Rundll32
+8,03,51,credential-access,T1081,Credentials in Files
+7,03,51,credential-access,T1003,Credential Dumping
+3,03,51,credential-access,T1110,Brute Force
+18,03,51,credential-access,T1056,Input Capture
+42,03,51,discovery,T1082,System Information Discovery
+43,03,51,discovery,T1016,System Network Configuration Discovery
+44,03,51,discovery,T1049,System Network Connections Discovery
+45,03,51,discovery,T1033,System Owner/User Discovery
+25,03,51,discovery,T1057,Process Discovery
+2,03,51,discovery,T1087,Account Discovery
+32,03,51,discovery,T1018,Remote System Discovery
+23,03,51,discovery,T1069,Permission Groups Discovery
+15,03,51,discovery,T1083,File and Directory Discovery
+31,03,51,lateral-movement,T1105,Remote File Copy
+51,03,51,lateral-movement,T1077,Windows Admin Shares
+29,03,51,lateral-movement,T1076,Remote Desktop Protocol
+12,03,51,collection,T1005,Data from Local System
+11,03,51,collection,T1074,Data Staged
+17,03,51,collection,T1056,Input Capture
+10,03,51,exfiltration,T1002,Data Compressed
+13,03,51,exfiltration,T1041,Exfiltration Over Command and Control Channel
+41,03,51,command-and-control,T1095,Standard Non-Application Layer Protocol
+19,03,51,command-and-control,T1104,Multi-Stage Channels
+46,03,51,command-and-control,T1065,Uncommonly Used Port
+5,03,51,command-and-control,T1043,Commonly Used Port
+30,03,51,command-and-control,T1105,Remote File Copy

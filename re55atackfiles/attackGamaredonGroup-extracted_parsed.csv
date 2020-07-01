@@ -1,0 +1,11 @@
+,Attack,Index,Tactic,Technique,Technique Name
+6,GamaredonGroup,9,execution,T1064,Scripting
+5,GamaredonGroup,9,defense-evasion,T1064,Scripting
+2,GamaredonGroup,9,discovery,T1120,Peripheral Device Discovery
+8,GamaredonGroup,9,discovery,T1082,System Information Discovery
+9,GamaredonGroup,9,discovery,T1033,System Owner/User Discovery
+4,GamaredonGroup,9,lateral-movement,T1105,Remote File Copy
+0,GamaredonGroup,9,collection,T1025,Data from Removable Media
+1,GamaredonGroup,9,exfiltration,T1041,Exfiltration Over Command and Control Channel
+3,GamaredonGroup,9,command-and-control,T1105,Remote File Copy
+7,GamaredonGroup,9,command-and-control,T1071,Standard Application Layer Protocol

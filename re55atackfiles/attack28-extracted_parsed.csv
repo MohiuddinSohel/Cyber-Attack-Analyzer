@@ -1,0 +1,67 @@
+,Attack,Index,Tactic,Technique,Technique Name
+55,28,65,priority-definition-planning,PRE-T1001,Assess leadership areas of interest
+59,28,65,target-selection,PRE-T1018,Determine strategic target
+58,28,65,target-selection,PRE-T1019,Determine operational element
+54,28,65,technical-information-gathering,PRE-T1024,Acquire OSINT data sets and information
+61,28,65,technical-information-gathering,PRE-T1033,Identify web defensive services
+60,28,65,technical-information-gathering,PRE-T1032,Discover target logon/email address format
+63,28,65,technical-weakness-identification,PRE-T1068,Research relevant vulnerabilities/CVEs
+56,28,65,establish-&-maintain-infrastructure,PRE-T1105,Buy domain name
+62,28,65,build-capabilities,PRE-T1123,Obtain/re-use payloads
+57,28,65,build-capabilities,PRE-T1122,Create custom payloads
+65,28,65,launch,PRE-T1149,Unconditional client-side exploitation/Injected Website/Driveby
+64,28,65,launch,PRE-T1144,Spear phishing messages with malicious attachments
+38,28,65,initial-access,T1091,Replication Through Removable Media
+53,28,65,initial-access,T1078,Valid Accounts
+44,28,65,initial-access,T1193,Spearphishing Attachment
+15,28,65,execution,T1173,Dynamic Data Exchange
+40,28,65,execution,T1085,Rundll32
+43,28,65,execution,T1064,Scripting
+49,28,65,execution,T1204,User Execution
+27,28,65,persistence,T1037,Logon Scripts
+22,28,65,persistence,T1158,Hidden Files and Directories
+2,28,65,persistence,T1067,Bootkit
+51,28,65,persistence,T1078,Valid Accounts
+30,28,65,persistence,T1137,Office Application Startup
+5,28,65,persistence,T1122,Component Object Model Hijacking
+17,28,65,privilege-escalation,T1068,Exploitation for Privilege Escalation
+52,28,65,privilege-escalation,T1078,Valid Accounts
+1,28,65,privilege-escalation,T1134,Access Token Manipulation
+50,28,65,defense-evasion,T1078,Valid Accounts
+42,28,65,defense-evasion,T1064,Scripting
+39,28,65,defense-evasion,T1085,Rundll32
+48,28,65,defense-evasion,T1099,Timestomp
+0,28,65,defense-evasion,T1134,Access Token Manipulation
+4,28,65,defense-evasion,T1122,Component Object Model Hijacking
+29,28,65,defense-evasion,T1027,Obfuscated Files or Information
+14,28,65,defense-evasion,T1140,Deobfuscate/Decode Files or Information
+16,28,65,defense-evasion,T1211,Exploitation for Defense Evasion
+19,28,65,defense-evasion,T1107,File Deletion
+23,28,65,defense-evasion,T1070,Indicator Removal on Host
+21,28,65,defense-evasion,T1158,Hidden Files and Directories
+7,28,65,credential-access,T1003,Credential Dumping
+8,28,65,credential-access,T1081,Credentials in Files
+37,28,65,credential-access,T1091,Replication Through Removable Media
+28,28,65,credential-access,T1040,Network Sniffing
+25,28,65,credential-access,T1056,Input Capture
+33,28,65,discovery,T1057,Process Discovery
+47,28,65,discovery,T1033,System Owner/User Discovery
+20,28,65,discovery,T1083,File and Directory Discovery
+32,28,65,discovery,T1120,Peripheral Device Discovery
+46,28,65,discovery,T1082,System Information Discovery
+31,28,65,lateral-movement,T1075,Pass the Hash
+35,28,65,lateral-movement,T1105,Remote File Copy
+18,28,65,lateral-movement,T1210,Exploitation of Remote Services
+36,28,65,lateral-movement,T1091,Replication Through Removable Media
+26,28,65,lateral-movement,T1037,Logon Scripts
+10,28,65,collection,T1074,Data Staged
+11,28,65,collection,T1213,Data from Information Repositories
+13,28,65,collection,T1025,Data from Removable Media
+41,28,65,collection,T1113,Screen Capture
+24,28,65,collection,T1056,Input Capture
+12,28,65,collection,T1005,Data from Local System
+9,28,65,command-and-control,T1001,Data Obfuscation
+6,28,65,command-and-control,T1090,Connection Proxy
+34,28,65,command-and-control,T1105,Remote File Copy
+3,28,65,command-and-control,T1092,Communication Through Removable Media
+45,28,65,command-and-control,T1071,Standard Application Layer Protocol

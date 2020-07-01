@@ -1,0 +1,8 @@
+,Attack,Index,Tactic,Technique,Technique Name
+3,16,6,target-selection,PRE-T1018,Determine strategic target
+0,16,6,technical-information-gathering,PRE-T1024,Acquire OSINT data sets and information
+4,16,6,technical-information-gathering,PRE-T1032,Discover target logon/email address format
+5,16,6,people-information-gathering,PRE-T1049,Identify business relationships
+1,16,6,people-weakness-identification,PRE-T1073,Assess targeting options
+2,16,6,establish-&-maintain-infrastructure,PRE-T1111,Compromise 3rd party infrastructure to support delivery
+6,16,6,launch,PRE-T1144,Spear phishing messages with malicious attachments

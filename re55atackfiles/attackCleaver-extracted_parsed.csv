@@ -1,0 +1,11 @@
+,Attack,Index,Tactic,Technique,Technique Name
+5,Cleaver,9,target-selection,PRE-T1019,Determine operational element
+6,Cleaver,9,target-selection,PRE-T1018,Determine strategic target
+8,Cleaver,9,adversary-opsec,PRE-T1090,Obfuscation or cryptography
+2,Cleaver,9,persona-development,PRE-T1118,Build social network persona
+7,Cleaver,9,persona-development,PRE-T1119,Develop social network persona digital footprint
+4,Cleaver,9,build-capabilities,PRE-T1122,Create custom payloads
+9,Cleaver,9,build-capabilities,PRE-T1123,Obtain/re-use payloads
+3,Cleaver,9,launch,PRE-T1153,Conduct social engineering or HUMINT operation
+1,Cleaver,9,compromise,PRE-T1163,Authorized user performs requested cyber action
+0,Cleaver,9,credential-access,T1003,Credential Dumping

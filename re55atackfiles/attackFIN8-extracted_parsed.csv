@@ -1,0 +1,33 @@
+,Attack,Index,Tactic,Technique,Technique Name
+29,FIN8,31,initial-access,T1078,Valid Accounts
+23,FIN8,31,initial-access,T1192,Spearphishing Link
+22,FIN8,31,initial-access,T1193,Spearphishing Attachment
+0,FIN8,31,execution,T1059,Command-Line Interface
+25,FIN8,31,execution,T1204,User Execution
+20,FIN8,31,execution,T1064,Scripting
+16,FIN8,31,execution,T1053,Scheduled Task
+11,FIN8,31,execution,T1086,PowerShell
+31,FIN8,31,execution,T1047,Windows Management Instrumentation
+27,FIN8,31,persistence,T1078,Valid Accounts
+17,FIN8,31,persistence,T1053,Scheduled Task
+28,FIN8,31,privilege-escalation,T1078,Valid Accounts
+6,FIN8,31,privilege-escalation,T1068,Exploitation for Privilege Escalation
+18,FIN8,31,privilege-escalation,T1053,Scheduled Task
+9,FIN8,31,defense-evasion,T1112,Modify Registry
+10,FIN8,31,defense-evasion,T1027,Obfuscated Files or Information
+7,FIN8,31,defense-evasion,T1107,File Deletion
+26,FIN8,31,defense-evasion,T1078,Valid Accounts
+19,FIN8,31,defense-evasion,T1064,Scripting
+8,FIN8,31,defense-evasion,T1070,Indicator Removal on Host
+2,FIN8,31,credential-access,T1003,Credential Dumping
+15,FIN8,31,discovery,T1018,Remote System Discovery
+21,FIN8,31,discovery,T1063,Security Software Discovery
+30,FIN8,31,lateral-movement,T1077,Windows Admin Shares
+14,FIN8,31,lateral-movement,T1105,Remote File Copy
+12,FIN8,31,lateral-movement,T1076,Remote Desktop Protocol
+4,FIN8,31,collection,T1074,Data Staged
+3,FIN8,31,exfiltration,T1002,Data Compressed
+5,FIN8,31,exfiltration,T1048,Exfiltration Over Alternative Protocol
+24,FIN8,31,command-and-control,T1032,Standard Cryptographic Protocol
+13,FIN8,31,command-and-control,T1105,Remote File Copy
+1,FIN8,31,command-and-control,T1043,Commonly Used Port

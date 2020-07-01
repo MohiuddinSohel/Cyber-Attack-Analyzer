@@ -1,0 +1,11 @@
+,Attack,Index,Tactic,Technique,Technique Name
+0,Elderwood,9,initial-access,T1189,Drive-by Compromise
+6,Elderwood,9,initial-access,T1193,Spearphishing Attachment
+7,Elderwood,9,initial-access,T1192,Spearphishing Link
+8,Elderwood,9,initial-access,T1195,Supply Chain Compromise
+1,Elderwood,9,execution,T1203,Exploitation for Client Execution
+9,Elderwood,9,execution,T1204,User Execution
+2,Elderwood,9,defense-evasion,T1027,Obfuscated Files or Information
+5,Elderwood,9,defense-evasion,T1045,Software Packing
+4,Elderwood,9,lateral-movement,T1105,Remote File Copy
+3,Elderwood,9,command-and-control,T1105,Remote File Copy

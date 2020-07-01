@@ -1,0 +1,5 @@
+,Attack,Index,Tactic,Technique,Technique Name
+3,PittyTiger,3,initial-access,T1078,Valid Accounts
+1,PittyTiger,3,persistence,T1078,Valid Accounts
+2,PittyTiger,3,privilege-escalation,T1078,Valid Accounts
+0,PittyTiger,3,defense-evasion,T1078,Valid Accounts

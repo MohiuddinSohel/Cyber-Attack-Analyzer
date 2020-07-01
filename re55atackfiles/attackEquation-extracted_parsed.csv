@@ -1,0 +1,4 @@
+,Attack,Index,Tactic,Technique,Technique Name
+1,Equation,2,persistence,T1109,Component Firmware
+0,Equation,2,defense-evasion,T1109,Component Firmware
+2,Equation,2,discovery,T1120,Peripheral Device Discovery

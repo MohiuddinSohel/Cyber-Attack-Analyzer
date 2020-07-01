@@ -1,0 +1,7 @@
+,Attack,Index,Tactic,Technique,Technique Name
+2,12,5,priority-definition-planning,PRE-T1002,Identify gap areas
+1,12,5,target-selection,PRE-T1018,Determine strategic target
+3,12,5,adversary-opsec,PRE-T1086,Obfuscate infrastructure
+0,12,5,persona-development,PRE-T1120,Choose pre-compromised persona and affiliated accounts
+4,12,5,build-capabilities,PRE-T1130,Post compromise tool development
+5,12,5,launch,PRE-T1144,Spear phishing messages with malicious attachments

@@ -1,0 +1,10 @@
+,Attack,Index,Tactic,Technique,Technique Name
+8,18,8,initial-access,T1078,Valid Accounts
+2,18,8,execution,T1053,Scheduled Task
+0,18,8,persistence,T1133,External Remote Services
+3,18,8,persistence,T1053,Scheduled Task
+6,18,8,persistence,T1078,Valid Accounts
+4,18,8,privilege-escalation,T1053,Scheduled Task
+7,18,8,privilege-escalation,T1078,Valid Accounts
+1,18,8,defense-evasion,T1107,File Deletion
+5,18,8,defense-evasion,T1078,Valid Accounts

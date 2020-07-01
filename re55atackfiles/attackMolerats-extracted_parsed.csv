@@ -1,0 +1,4 @@
+,Attack,Index,Tactic,Technique,Technique Name
+0,Molerats,2,defense-evasion,T1116,Code Signing
+1,Molerats,2,credential-access,T1003,Credential Dumping
+2,Molerats,2,discovery,T1057,Process Discovery

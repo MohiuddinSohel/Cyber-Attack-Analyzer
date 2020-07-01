@@ -1,0 +1,30 @@
+,Attack,Index,Tactic,Technique,Technique Name
+18,Leviathan,28,initial-access,T1193,Spearphishing Attachment
+24,Leviathan,28,initial-access,T1078,Valid Accounts
+19,Leviathan,28,initial-access,T1192,Spearphishing Link
+27,Leviathan,28,execution,T1047,Windows Management Instrumentation
+4,Leviathan,28,execution,T1059,Command-Line Interface
+12,Leviathan,28,execution,T1117,Regsvr32
+7,Leviathan,28,execution,T1203,Exploitation for Client Execution
+16,Leviathan,28,execution,T1064,Scripting
+9,Leviathan,28,execution,T1086,PowerShell
+20,Leviathan,28,execution,T1204,User Execution
+28,Leviathan,28,persistence,T1084,Windows Management Instrumentation Event Subscription
+17,Leviathan,28,persistence,T1023,Shortcut Modification
+22,Leviathan,28,persistence,T1078,Valid Accounts
+1,Leviathan,28,persistence,T1197,BITS Jobs
+10,Leviathan,28,persistence,T1060,Registry Run Keys / Start Folder
+23,Leviathan,28,privilege-escalation,T1078,Valid Accounts
+26,Leviathan,28,defense-evasion,T1102,Web Service
+21,Leviathan,28,defense-evasion,T1078,Valid Accounts
+0,Leviathan,28,defense-evasion,T1197,BITS Jobs
+11,Leviathan,28,defense-evasion,T1117,Regsvr32
+8,Leviathan,28,defense-evasion,T1027,Obfuscated Files or Information
+6,Leviathan,28,defense-evasion,T1140,Deobfuscate/Decode Files or Information
+3,Leviathan,28,defense-evasion,T1116,Code Signing
+2,Leviathan,28,defense-evasion,T1009,Binary Padding
+15,Leviathan,28,defense-evasion,T1064,Scripting
+14,Leviathan,28,lateral-movement,T1105,Remote File Copy
+5,Leviathan,28,collection,T1074,Data Staged
+13,Leviathan,28,command-and-control,T1105,Remote File Copy
+25,Leviathan,28,command-and-control,T1102,Web Service

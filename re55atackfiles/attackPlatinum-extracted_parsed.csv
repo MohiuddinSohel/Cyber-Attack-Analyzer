@@ -1,0 +1,16 @@
+,Attack,Index,Tactic,Technique,Technique Name
+1,Platinum,14,initial-access,T1189,Drive-by Compromise
+12,Platinum,14,initial-access,T1193,Spearphishing Attachment
+14,Platinum,14,execution,T1204,User Execution
+4,Platinum,14,persistence,T1179,Hooking
+2,Platinum,14,privilege-escalation,T1068,Exploitation for Privilege Escalation
+5,Platinum,14,privilege-escalation,T1179,Hooking
+9,Platinum,14,privilege-escalation,T1055,Process Injection
+8,Platinum,14,defense-evasion,T1055,Process Injection
+0,Platinum,14,credential-access,T1003,Credential Dumping
+3,Platinum,14,credential-access,T1179,Hooking
+7,Platinum,14,credential-access,T1056,Input Capture
+11,Platinum,14,lateral-movement,T1105,Remote File Copy
+6,Platinum,14,collection,T1056,Input Capture
+10,Platinum,14,command-and-control,T1105,Remote File Copy
+13,Platinum,14,command-and-control,T1095,Standard Non-Application Layer Protocol

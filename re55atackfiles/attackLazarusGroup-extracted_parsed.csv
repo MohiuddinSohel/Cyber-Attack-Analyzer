@@ -1,0 +1,49 @@
+,Attack,Index,Tactic,Technique,Technique Name
+47,LazarusGroup,47,execution,T1047,Windows Management Instrumentation
+6,LazarusGroup,47,execution,T1059,Command-Line Interface
+38,LazarusGroup,47,persistence,T1023,Shortcut Modification
+34,LazarusGroup,47,persistence,T1060,Registry Run Keys / Start Folder
+27,LazarusGroup,47,persistence,T1050,New Service
+23,LazarusGroup,47,persistence,T1158,Hidden Files and Directories
+4,LazarusGroup,47,persistence,T1067,Bootkit
+1,LazarusGroup,47,privilege-escalation,T1134,Access Token Manipulation
+32,LazarusGroup,47,privilege-escalation,T1055,Process Injection
+28,LazarusGroup,47,privilege-escalation,T1050,New Service
+44,LazarusGroup,47,defense-evasion,T1099,Timestomp
+31,LazarusGroup,47,defense-evasion,T1055,Process Injection
+29,LazarusGroup,47,defense-evasion,T1027,Obfuscated Files or Information
+22,LazarusGroup,47,defense-evasion,T1158,Hidden Files and Directories
+20,LazarusGroup,47,defense-evasion,T1107,File Deletion
+16,LazarusGroup,47,defense-evasion,T1089,Disabling Security Tools
+0,LazarusGroup,47,defense-evasion,T1134,Access Token Manipulation
+5,LazarusGroup,47,credential-access,T1110,Brute Force
+2,LazarusGroup,47,credential-access,T1098,Account Manipulation
+25,LazarusGroup,47,credential-access,T1056,Input Capture
+33,LazarusGroup,47,discovery,T1012,Query Registry
+43,LazarusGroup,47,discovery,T1033,System Owner/User Discovery
+30,LazarusGroup,47,discovery,T1057,Process Discovery
+41,LazarusGroup,47,discovery,T1082,System Information Discovery
+3,LazarusGroup,47,discovery,T1010,Application Window Discovery
+42,LazarusGroup,47,discovery,T1016,System Network Configuration Discovery
+21,LazarusGroup,47,discovery,T1083,File and Directory Discovery
+35,LazarusGroup,47,lateral-movement,T1076,Remote Desktop Protocol
+46,LazarusGroup,47,lateral-movement,T1077,Windows Admin Shares
+37,LazarusGroup,47,lateral-movement,T1105,Remote File Copy
+14,LazarusGroup,47,collection,T1074,Data Staged
+15,LazarusGroup,47,collection,T1005,Data from Local System
+24,LazarusGroup,47,collection,T1056,Input Capture
+13,LazarusGroup,47,exfiltration,T1022,Data Encrypted
+11,LazarusGroup,47,exfiltration,T1002,Data Compressed
+18,LazarusGroup,47,exfiltration,T1041,Exfiltration Over Command and Control Channel
+17,LazarusGroup,47,exfiltration,T1048,Exfiltration Over Alternative Protocol
+7,LazarusGroup,47,command-and-control,T1043,Commonly Used Port
+45,LazarusGroup,47,command-and-control,T1065,Uncommonly Used Port
+40,LazarusGroup,47,command-and-control,T1032,Standard Cryptographic Protocol
+9,LazarusGroup,47,command-and-control,T1094,Custom Command and Control Protocol
+8,LazarusGroup,47,command-and-control,T1090,Connection Proxy
+36,LazarusGroup,47,command-and-control,T1105,Remote File Copy
+10,LazarusGroup,47,command-and-control,T1024,Custom Cryptographic Protocol
+12,LazarusGroup,47,command-and-control,T1132,Data Encoding
+19,LazarusGroup,47,command-and-control,T1008,Fallback Channels
+39,LazarusGroup,47,command-and-control,T1071,Standard Application Layer Protocol
+26,LazarusGroup,47,command-and-control,T1026,Multiband Communication
