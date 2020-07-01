@@ -7,5 +7,5 @@ In the process of attack detection and prediction, it uses a correlation matrix 
 
 ## How to Build and Run the Cyber-Attack-Analyzer
 This is a java project built on using java JDK 8.1. The entry point of this project is the src/TTPHunt/View.java. Before building and runing the code, you have to make following changes to set approprite input data file-
- - change appropriate observed technique file name
+ - Change appropriate observed technique file name
  - Change the attack data file which will be used to generate the attack technique correlation matrix 
